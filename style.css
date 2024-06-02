@@ -1,0 +1,98 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+body{
+    width:100vw;
+    height:100vh;
+    background-color: black;
+}
+.todoList{
+    width:30%;
+    min-height:50%;
+    background-image: url("https://i.pinimg.com/originals/56/0f/81/560f81539de62ad7f9d26bc6d548d083.jpg");
+    background-size: cover;
+    margin-left: 35%;
+    margin-top: 10%;
+    border-radius: 20px 20px 20px 20px;
+    /* text-align: center; */
+    border:none;
+    box-shadow: 0px 0px 10px 0px white;
+}
+.input_section{
+    width:100%;
+    height:12vmin;
+    border-radius: 20px 20px 0px 0px;
+    /* background-color: blue; */
+}
+input{
+    margin-top: 6%;
+    border-radius: 20px;
+    height:38%;
+    width: 65%;
+    font-size: 1.3rem;
+    text-align: center;
+    z-index: 1;
+    margin-left: 20%;
+    border: none;
+    
+    
+}
+#btn1{
+    width:  20%;
+    margin-left: -20%;
+    height:42%;
+    font-size: 1rem;
+    z-index: 0;
+    border-radius: 20px;
+    border: none;
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+
+}
+.AddIteams{
+    width:100%;
+    min-height:20vmin;
+}
+
+#li{
+    /* font-family: "Titillium Web", sans-serif;
+  font-weight: 200;
+  font-style: normal; */
+  font-family: "Titillium Web", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+#Del{
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+#Done{
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+/* Navbar */
+
+.NavBar{
+    background-color: aliceblue;
+    color:black;
+    width:100%;
+    height:5%;
+}
+#ul{
+    display: flex;
+    list-style-type: none;
+}
+#li{
+    padding-left: 5%;
+}
+#btn2,#btn3,#btn4{
+    border: none;
+    background-color: aliceblue;
+    cursor: pointer;
+}

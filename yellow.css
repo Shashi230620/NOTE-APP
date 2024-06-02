@@ -1,0 +1,11 @@
+.button,#btn1{
+    background-color:#ceb215;
+    /* background-image: url("https://img.freepik.com/free-vector/yellow-triangle-background-with-vivid-colors_23-2148400225.jpg?t=st=1717081960~exp=1717085560~hmac=7d841f4be36914f3dce3fe995b0444b9a6a3d127fb6c0dad805f7c9d6962c65f&w=740");
+    background-size: cover; */
+    color:white;
+}
+.div2{
+    /* background-image: url("https://img.freepik.com/free-vector/yellow-triangle-background-with-vivid-colors_23-2148400225.jpg?t=st=1717081960~exp=1717085560~hmac=7d841f4be36914f3dce3fe995b0444b9a6a3d127fb6c0dad805f7c9d6962c65f&w=740");
+    background-size: cover; */
+    background-color: #ceb215;
+}
